@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+This is Andrew Su's personal GitHub account. 
+I'm currently working on transitioning my technical coding skills (those learned in class) into real projects for professional use.
+I hope this can also be a place for me to showcase my interests in math and cs, documenting my journey.
+
 <!--
 **ingeresh/ingeresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
